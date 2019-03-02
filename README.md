@@ -1,6 +1,6 @@
 ## 插件简介
 
-Comment2Mail 是 Typecho 评论邮件通知插件，支持 SMTP、Mailgun 两种接口
+Comment2Mail 是 Typecho 评论邮件通知插件，支持 SMTP、Mailgun 两种接口，其中 SMTP 接口采用非阻塞方式发送邮件
 
 在评论审核通过、用户评论文章、用户评论被回复时发送邮件通知
 
